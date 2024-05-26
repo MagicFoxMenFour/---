@@ -3,8 +3,7 @@
 
 Данный репозиторий содержит исходный код консольной программы "Англо-русский и Русско-английский словарь", разработанной в рамках курсовой работы.
 
-![downloads](https://img.shields.io/badge/downloads-d?style=flat
-)
+[![downloads](https://img.shields.io/badge/downloads-d?style=flat)](https://github.com/MagicFoxMenFour/Course-work-English-Russian-dictionary-/releases/tag/v0.1)
 
 **Функциональность:**
 + Перевод слов: Перевод слов с английского на русский и наоборот.
